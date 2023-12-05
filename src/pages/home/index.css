@@ -1,0 +1,25 @@
+.home-page-wrpr {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.heading {
+  font-size: 32px;
+  font-weight: bolder;
+  margin: 40px 0;
+}
+
+.buttons {
+  margin-top: 40px;
+}
+
+.nav-button {
+  padding: 12px;
+  border: none;
+  border-radius: 20px;
+  font-weight: bold;
+  cursor: pointer;
+  margin: 0 20px;
+}
